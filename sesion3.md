@@ -6,7 +6,16 @@
 
 <!-- Su documentación aquí -->
 
-# Actividad: Adición de contenido multimedia en un sitio web utilizando etiquetas HTML5
+# Actividad:Actividad: Adición de contenido multimedia en un sitio web utilizando etiquetas HTML5
+Completa el siguiente código HTML añadiendo el contenido multimedia correspondiente en cada sección:
+
+4 Imagenes
+2 Videos
+4 Audios
+2 Inline Frame
+
+# solucion:
+
 ```html
 <!DOCTYPE html>
 <html>
