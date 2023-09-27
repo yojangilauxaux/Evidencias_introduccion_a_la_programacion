@@ -11,9 +11,11 @@ Requerimientos del proyecto:
 Crea un proyecto web de diseño libre.
 Documentar el repositorio en el archivo README.md
 
-<!-- Su documentación aquí -->
-
 # solucion:
+
+[Repositorio actividad 7](https://github.com/yojangilauxaux/actividad-7.git)
+
+
 
 ```html
 
@@ -95,7 +97,6 @@ Documentar el repositorio en el archivo README.md
 </body>
 </html>
 ```
-
 
 
 
