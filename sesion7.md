@@ -12,9 +12,8 @@ Crea un proyecto web de diseño libre.
 Documentar el repositorio en el archivo README.md
 
 <!-- Su documentación aquí -->
-[Repositorio actividad 7](https://github.com/yojangilauxaux/Evidencias_introduccion_a_la_programacion.git)
 
-# actividad-7
+# solucion:
 
 ```html
 
