@@ -3,4 +3,3 @@
 
 ## Sesión 1 
 
-.yojan.dd
